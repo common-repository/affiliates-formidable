@@ -1,0 +1,46 @@
+/**
+ * affiliates_formidable_admin.css
+ *
+ * Copyright (c) www.itthinx.com
+ *
+ * This code is released under the GNU General Public License.
+ * See COPYRIGHT.txt and LICENSE.txt.
+ *
+ * This code is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * This header and all notices must be kept intact.
+ *
+ * @author itthinx
+ * @package affiliates-formidable
+ * @since 2.0.0
+ */
+
+.frm_affiliates_icon {
+	background-image: url( ../images/affiliates-formidable-icon.png );
+	background-repeat: no-repeat;
+	background-position-x: center;
+	background-position-y: center;
+	background-size: 24px 24px;
+	height: 24px;
+	width: 24px;
+	display: inline-block;
+}
+.frm_affiliates_registration_icon {
+	background-image: url( ../images/affiliates-registration-formidable-icon.png );
+	background-repeat: no-repeat;
+	background-position-x: center;
+	background-position-y: center;
+	background-size: 24px 24px;
+	height: 24px;
+	width: 24px;
+	display: inline-block;
+}
+span.frm_form_action_icon.frm_affiliates_icon,
+span.frm_form_action_icon.frm_affiliates_registration_icon {
+	background-size: 16px 16px;
+	background-position-y: 4px;
+	height: 20px;
+}

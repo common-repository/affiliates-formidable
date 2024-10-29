@@ -1,0 +1,302 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid   ""
+msgstr  "Project-Id-Version: PACKAGE VERSION\n"
+        "Report-Msgid-Bugs-To: \n"
+        "POT-Creation-Date: 2017-11-17 13:26+0100\n"
+        "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+        "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+        "Language-Team: LANGUAGE <LL@li.org>\n"
+        "Language: \n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=CHARSET\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
+#: includes/class-affiliates-formidable-affiliates-action.php:156
+#: includes/class-affiliates-formidable-affiliates-action.php:183
+#: includes/class-affiliates-formidable-affiliates-action.php:213
+msgid   "--"
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-registration-action.php:396
+msgid   "---"
+msgstr  ""
+
+#: includes/class-affiliates-formidable-admin.php:140
+msgid   "<strong>Affiliate Registration Forms</strong> &mdash; Allow "
+        "affiliates to sign up through a form provided by Formidable Forms."
+msgstr  ""
+
+#: includes/class-affiliates-formidable-admin.php:151
+msgid   "<strong>Referrals and Leads</strong> &mdash; Allow affiliates to "
+        "refer others to the site, record referrals to grant commissions on "
+        "form submissions and gather leads."
+msgstr  ""
+
+#: includes/class-affiliates-formidable-admin.php:72
+msgid   "Access denied."
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-registration-action.php:359
+msgid   "Active"
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-registration-action.php:333
+msgid   "Affiliate Registration"
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-registration-action.php:352
+msgid   "Affiliate status"
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-action.php:91
+msgid   "Affiliates"
+msgstr  ""
+
+#: includes/class-affiliates-formidable-admin.php:56
+msgid   "Affiliates Formidable"
+msgstr  ""
+
+#: includes/class-affiliates-formidable-admin.php:85
+msgid   "Affiliates Formidable Forms Integration"
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-registration-action.php:285
+msgid   "Affiliates Registration"
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-registration-action.php:412
+msgid   "Affiliates Registration Field Mapping"
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-action.php:140
+msgid   "Allow affiliates to earn commissions on submissions of this form."
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-registration-action.php:374
+msgid   "Automatic login"
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-registration-action.php:382
+msgid   "Automatically logs new users in upon successful registration."
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-registration-action.php:413
+msgid   "Choose the form fields that are mapped to these affiliate "
+        "registration fields."
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-action.php:277
+msgid   "Create a rate"
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-registration-action.php:334
+msgid   "Create an affiliate account for new users who register through this "
+        "form?"
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-action.php:177
+msgid   "Currency by Field"
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-action.php:136
+msgid   "Enable Referrals"
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-registration-action.php:343
+#: includes/class-affiliates-formidable-affiliates-registration-action.php:379
+msgid   "Enabled"
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-action.php:204
+msgid   "Fixed Currency"
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-action.php:315
+msgid   "For example, use 0.1 to grant a commission of 10%."
+msgstr  ""
+
+#: includes/class-affiliates-formidable-admin.php:57
+msgid   "Formidable"
+msgstr  ""
+
+#: includes/class-affiliates-formidable-handler.php:57
+#, php-format
+msgid   "Formidable Forms form #%d submission #%d"
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-action.php:294
+msgid   "If a fixed amount is desired, input the referral amount to be "
+        "credited for form submissions."
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-registration-action.php:346
+msgid   "If enabled, an affiliate account will be created for new users "
+        "registered with this form."
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-action.php:142
+msgid   "If enabled, referrals can be recorded for form submissions that have "
+        "been referred by an affiliate."
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-action.php:313
+msgid   "If the referral amount should be calculated based on the form total, "
+        "input the rate to be used."
+msgstr  ""
+
+#: includes/class-affiliates-formidable-admin.php:179
+#, php-format
+msgid   "Integration with <a href=\"%s\">Affiliates Enterprise</a>"
+msgstr  ""
+
+#: includes/class-affiliates-formidable-admin.php:173
+#, php-format
+msgid   "Integration with <a href=\"%s\">Affiliates Pro</a>"
+msgstr  ""
+
+#: includes/class-affiliates-formidable-admin.php:167
+#, php-format
+msgid   "Integration with <a href=\"%s\">Affiliates</a>"
+msgstr  ""
+
+#: includes/class-affiliates-formidable-admin.php:126
+#, php-format
+msgid   "It integrates <a href=\"%1$s\">Affiliates</a>, <a href=\"%2$s"
+        "\">Affiliates Pro</a> and <a href=\"%3$s\">Affiliates Enterprise</a> "
+        "with <a href=\"%4$s\">Formidable Forms</a>."
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-action.php:296
+msgid   "Leave this empty if a commission based on the Transaction Base "
+        "Amount should be granted."
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-action.php:317
+msgid   "Leave this empty if a fixed commission should be granted."
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-registration-action.php:388
+msgid   "Optin"
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-registration-action.php:364
+msgid   "Pending"
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-registration-action.php:94
+#, php-format
+msgid   "Please fill in the field <em>%s</em>."
+msgstr  ""
+
+#: includes/class-affiliates-formidable-admin.php:163
+msgid   "Please refer to these documentation pages for more details:"
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-action.php:236
+msgid   "Rates"
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-action.php:284
+msgid   "Referral Amount"
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-action.php:303
+msgid   "Referral Rate"
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-action.php:129
+msgid   "Referrals"
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-registration-action.php:338
+msgid   "Register an Affiliate Account"
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-registration-action.php:427
+msgid   "Select a field"
+msgstr  ""
+
+#: includes/class-affiliates-formidable.php:185
+msgid   "The <strong>Affiliates Formidable Integration</strong> plugin "
+        "requires an appropriate Affiliates plugin: <a href=\"http://www."
+        "itthinx.com/plugins/affiliates\" target=\"_blank\">Affiliates</a>, "
+        "<a href=\"http://www.itthinx.com/plugins/affiliates-pro\" target="
+        "\"_blank\">Affiliates Pro</a> or <a href=\"http://www.itthinx.com/"
+        "plugins/affiliates-enterprise\" target=\"_blank\">Affiliates "
+        "Enterprise</a>."
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-action.php:227
+msgid   "The currency code used for referrals recorded for this form."
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-registration-action.php:368
+msgid   "The default status of affiliates who register through this form."
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-action.php:258
+msgid   "This form has no specific applicable rates."
+msgstr  ""
+
+#: includes/class-affiliates-formidable-admin.php:136
+msgid   "This integration features:"
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-action.php:229
+msgid   "This is used when no currency field is chosen or as a fallback when "
+        "the chosen field does not provide a currency."
+msgstr  ""
+
+#: includes/class-affiliates-formidable-admin.php:144
+#, php-format
+msgid   "To allow affiliates to register through a form, edit the form "
+        "Settings, under Form Actions add and configure the <img style="
+        "\"width:16px;height:16px;vertical-align:middle;\" src=\"%s\"/> "
+        "<strong>Affiliates Registration</strong> action."
+msgstr  ""
+
+#: includes/class-affiliates-formidable-admin.php:155
+#, php-format
+msgid   "To enable referrals for a form, edit the form Settings, under Form "
+        "Actions add and configure the <img style=\"width:16px;height:16px;"
+        "vertical-align:middle;\" src=\"%s\"/> <strong>Affiliates</strong> "
+        "action."
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-action.php:150
+msgid   "Transaction Base Amount"
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-action.php:170
+msgid   "You can choose the field that is used to calculate the commission "
+        "here."
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-action.php:197
+msgid   "You can choose the field that provides the currency code (USD, "
+        "EUR, ...) used for referrals recorded through this form."
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-registration-action.php:406
+msgid   "You can use a checkbox to let the user choose whether to sign up as "
+        "an affiliate or not. The field must be a single Checkbox, "
+        "appropriately labelled, usually inviting the user to \"Join the "
+        "Affiliate Program\". If the user does not opt in, the form "
+        "submission will simply allow to create the user account (without "
+        "joining the affiliate program)."
+msgstr  ""
+
+#: includes/class-affiliates-formidable-admin.php:119
+#, php-format
+msgid   "You have the <strong>Affiliates</strong> integration by <a href=\"%s"
+        "\">itthinx</a> for Formidable Forms installed."
+msgstr  ""
+
+#: includes/class-affiliates-formidable-affiliates-action.php:201
+msgid   "or"
+msgstr  ""
